@@ -1,0 +1,94 @@
+body{
+    width: 100%;
+    height: 100%;
+ }
+
+div{
+    margin: 1px;
+}
+
+#div1{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#div2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#div3{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+#div4{
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+}
+
+#div5{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#div6{
+    display: flex;
+    flex-direction: row; 
+    height: 125px;
+}
+
+
+/* Définition des boxes */
+
+
+
+
+
+
+#red{
+    background-color: red;
+    height: 50px;
+}
+
+#yellow{
+    background-color: yellow;
+    height: 150px;
+}
+
+#blue{
+    background-color: blue;
+    height: 500px;
+    width: 50%;
+}
+
+#green{
+    background-color: green;
+    height: 250px;
+    width: 100%;
+}
+
+#orange{
+    background-color: rgb(123, 82, 6);
+    width: 25%;
+}
+
+#darkGreen{
+    background-color: rgb(50, 50, 128);
+    height: 125px;
+}
+
+#beige{
+    background-color: beige;
+    width: 50%
+}
+
+#black{
+    background-color: black;
+    width: 50%
+}
